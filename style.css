@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#task-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#task-list li button {
+  min-width: 40px;
+}
