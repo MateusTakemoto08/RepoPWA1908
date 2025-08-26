@@ -4,9 +4,7 @@ const ASSETS = [
   '/RepoPWA1908/index.html',
   '/RepoPWA1908/style.css',
   '/RepoPWA1908/app.js',
-  '/RepoPWA1908/manifest.json',
-  '/RepoPWA1908/icons/icon-192.png',
-  '/RepoPWA1908/icons/icon-512.png'
+  '/RepoPWA1908/manifest.json'
 ];
 
 self.addEventListener('install', event => {
